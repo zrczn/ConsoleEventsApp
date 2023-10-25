@@ -1,0 +1,11 @@
+D:\Repos\Repos22\DelegatesAndEventsTrainer\ConsoleEventApp\FieldValidationAPI\bin\Debug\net7.0\FieldValidationAPI.deps.json
+D:\Repos\Repos22\DelegatesAndEventsTrainer\ConsoleEventApp\FieldValidationAPI\bin\Debug\net7.0\FieldValidationAPI.dll
+D:\Repos\Repos22\DelegatesAndEventsTrainer\ConsoleEventApp\FieldValidationAPI\bin\Debug\net7.0\FieldValidationAPI.pdb
+D:\Repos\Repos22\DelegatesAndEventsTrainer\ConsoleEventApp\FieldValidationAPI\obj\Debug\net7.0\FieldValidationAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Repos22\DelegatesAndEventsTrainer\ConsoleEventApp\FieldValidationAPI\obj\Debug\net7.0\FieldValidationAPI.AssemblyInfoInputs.cache
+D:\Repos\Repos22\DelegatesAndEventsTrainer\ConsoleEventApp\FieldValidationAPI\obj\Debug\net7.0\FieldValidationAPI.AssemblyInfo.cs
+D:\Repos\Repos22\DelegatesAndEventsTrainer\ConsoleEventApp\FieldValidationAPI\obj\Debug\net7.0\FieldValidationAPI.csproj.CoreCompileInputs.cache
+D:\Repos\Repos22\DelegatesAndEventsTrainer\ConsoleEventApp\FieldValidationAPI\obj\Debug\net7.0\FieldValidationAPI.dll
+D:\Repos\Repos22\DelegatesAndEventsTrainer\ConsoleEventApp\FieldValidationAPI\obj\Debug\net7.0\refint\FieldValidationAPI.dll
+D:\Repos\Repos22\DelegatesAndEventsTrainer\ConsoleEventApp\FieldValidationAPI\obj\Debug\net7.0\FieldValidationAPI.pdb
+D:\Repos\Repos22\DelegatesAndEventsTrainer\ConsoleEventApp\FieldValidationAPI\obj\Debug\net7.0\ref\FieldValidationAPI.dll
